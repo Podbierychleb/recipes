@@ -1,8 +1,16 @@
 img{
-  width: 640px;
-  height: auto;
-}
-.small{
   width: auto;
-  height: 48px;
+  height: 480px;
+}
+.smallimg{
+  width: auto;
+  height: 96px;
+}
+h1{
+  background-color: black;
+  color:white;
+  text-align: center;
+}
+.big{
+  font-size: 50px;
 }
